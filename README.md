@@ -27,8 +27,9 @@ Contribute:
 Fork the repository and make your changes.
 Submit a pull request detailing your contributions.
 Contributors
-Your Name - Anshuman Kandpal
-Team Member 1 - Gaurav Raturi
-Team Member 2 - Ashish Sandal
+Parth Tailor
+Anshuman Kandpal
+Gaurav Raturi
+Ashish Sandal
 License
 This project is licensed under the MIT License.
