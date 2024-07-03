@@ -15,7 +15,7 @@ To get started with Spidy Bot, follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/spidy-bot.git
+git clone https://github.com/anshuman777K/spidy-bot.git
 cd spidy-bot
 
 # Instructions for building and running Spidy Bot
