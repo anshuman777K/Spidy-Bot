@@ -17,9 +17,6 @@ Clone the Repository:
 
 git clone https://github.com/your-username/spidy-bot.git
 cd spidy-bot
-Install Dependencies:
-# Instructions for installing dependencies, if any
-Build and Run:
 
 # Instructions for building and running Spidy Bot
 Contribute:
@@ -31,5 +28,3 @@ Parth Tailor
 Anshuman Kandpal
 Gaurav Raturi
 Ashish Sandal
-License
-This project is licensed under the MIT License.
